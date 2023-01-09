@@ -1,0 +1,21 @@
+[
+  {
+    "Projects": [
+      {
+        "project1": {},
+        "project2": {}
+      }
+    ],
+    "skills": [
+      {
+        "html5": {
+          "img": "../img/programingLanguageLogo",
+          "title": "html5"
+        },
+        "css": {
+          "img": "../img/programingLanguageLogo/"
+        }
+      }
+    ]
+  }
+]
